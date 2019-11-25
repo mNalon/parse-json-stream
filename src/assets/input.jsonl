@@ -1,0 +1,3 @@
+{ "id": "123", "entity": "title", "type": "tvSearies", "category": "drama", "deepLink": "app://p/123", "totalEpisodes": 10, "totalSeasons": 3 }
+{ "id": "123_1", "titleId": "123", "seasonIndex": 1, "entity": "season", "category": "drama", "deepLink": "app://s/123_1", "totalEpisodes": 3 }
+{ "id": "123454", "entity": "episode", "titleId": "123", "seasonId": "123_1", "seasonIndex": 1, "episodeIndex": 2, "category": "drama", "deepLink": "app://v/123454" }
